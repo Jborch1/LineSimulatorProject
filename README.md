@@ -1,4 +1,4 @@
-# Portfolio
+# Line Simulator Information 
 The repository of my portfolio projects
 This project takes in a text file that store the timing for the internal clock and the amount of customers in line in this text file
 
